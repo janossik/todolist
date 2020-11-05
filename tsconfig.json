@@ -1,0 +1,17 @@
+{
+    "include": [
+        "./src/**/*"
+    ],
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "strict": true,
+        "esModuleInterop": true,
+        "downlevelIteration": true,
+        "target": "ES2020",
+        "lib": [
+            "dom",
+            "es2015"
+        ],
+        "jsx": "react"
+    }
+}
