@@ -1,6 +1,6 @@
 # ToDoList
 -	Created with CodeSandbox
--	This is the "todolist" application. I did this because I want to learn TypeScript better
+-	I made this application because I want to learn TypeScript better
 -	"npm start" ~ This console command starting app in localhost.
 -	"npm build" ~ This console command start building app
 
